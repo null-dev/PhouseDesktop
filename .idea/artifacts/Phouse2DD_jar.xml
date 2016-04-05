@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Phouse2DD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Phouse2DD_jar</output-path>
+    <root id="archive" name="Phouse2DD.jar">
+      <element id="module-output" name="Phouse2DD" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
